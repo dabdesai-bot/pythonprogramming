@@ -1,8 +1,5 @@
-def fun():
-    print("funny thing")
+ba=bytearray([65,66,67])
+print(ba)
 
-def main():
-    fun()
-
-if __name__=="__main__":
-    main()
+ba[0]=97
+print(ba)

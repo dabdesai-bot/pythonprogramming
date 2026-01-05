@@ -1,3 +1,2 @@
-r = range(5)
-print(r)
-print(list(r))
+s = {10, 20, 30, 10, 20}
+print(s)
