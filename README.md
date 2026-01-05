@@ -1,2 +1,0 @@
-# pythonprogramming
-Assignment of programming
