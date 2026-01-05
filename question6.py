@@ -1,6 +1,7 @@
-x=None
-print(type(x))
+import sys
 
-print(x==False)
-print(x==0)
-print(x=="")
+x=12
+print(x)
+print(type(x))
+print(id(x))
+print(sys.getsizeof(x))
