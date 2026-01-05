@@ -1,6 +1,5 @@
-def fun():
-    x=10
-    print(x)
+lst = [10, 20, 30]
+tpl = (10, 20, 30)
 
-fun()
-print(x)
+lst[0] = 100
+tpl(0) = 100

@@ -1,4 +1,5 @@
-a=10
-b=10
+s="Python"
+print("ID of Python:",id(s))
 
-print(id(a)==id(b))
+s=s+"3"
+print("ID of Python3:",id(s))

@@ -1,6 +1,2 @@
-a=5
-print(type(a))
-a=5.5
-print(type(a))
-a="python"
-print(type(a))
+d={1:"one",1:"ONE",2:"Two"}
+print(d)
